@@ -1,3 +1,3 @@
-###This is a Hotel Booking React Application
+### This is a Hotel Booking React Application
 
 
